@@ -246,7 +246,7 @@ export default function App() {
               </div>
             </div>
             <div>
-              <img src="/images/image.png" alt="Mohamed" style={{ width: '260px', borderRadius: '50%', border: '4px solid #0ef', boxShadow: '0 0 25px rgba(0, 238, 255, 0.3)' }} />
+              <img src="./images/image.png" alt="Mohamed" style={{ width: '260px', borderRadius: '50%', border: '4px solid #0ef', boxShadow: '0 0 25px rgba(0, 238, 255, 0.3)' }} />
             </div>
           </section>
 
